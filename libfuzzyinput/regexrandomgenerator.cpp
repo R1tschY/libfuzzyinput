@@ -24,6 +24,7 @@
 
 #include <iostream>
 #include <algorithm>
+#include <numeric>
 
 using namespace strtox;
 
